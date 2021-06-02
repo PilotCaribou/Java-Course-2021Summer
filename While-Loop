@@ -1,0 +1,10 @@
+public class Application { 
+	public static void main(String[] args) { 
+		//While Loop: Repeats until condition becomes false 
+		int counter = 0; 
+				while(counter < 100) { 
+					System.out.println("I am happy"+ " "+ counter); 
+					counter= counter + 1; 
+				} 
+			} 
+}
